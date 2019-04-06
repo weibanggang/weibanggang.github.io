@@ -1,2 +1,1 @@
-ĞŞ¸Äindex.htmlÀïµÄÎÄ×Ö£¬ÒÔ¼°Æ¯¸¡ÓÚÊó±êÉÏµÄ"thanks for watching.
-È»ºóĞŞ¸ÄjscssÄ¿Â¼ÏÂµÄtime.js,ĞŞ¸ÄÕâÀïÃæµÚÈıĞĞµÄÊ±¼ä£¬ÒÔ¼°currentTimeStringµÄÄÚÈİ
+æ‹çˆ±å§
